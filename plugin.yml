@@ -1,0 +1,15 @@
+main: me.Melo.MelosBuildTools.Main
+name: MelosBuildTools
+version: 0.1
+author: Melo
+#
+commands:
+   invisibleinator: 
+      description: gives you an INVISIBLE-INATOR
+      usage: /invisibleinator
+permissions:
+   melosbuildtools.*:
+      children:
+         melosbuildtools.invisibleinator:
+      
+   melosbuildtools.invisibleinator:
